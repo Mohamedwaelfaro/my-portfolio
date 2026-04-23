@@ -122,6 +122,6 @@ I'm a **Computer Science graduate** from AASTMT and a passionate **Flutter & Mob
 
 <div align="center">
 
-Made with ❤️ by **Mohamed Wael Farouk** · 2025
+Made with ❤️ by **Mohamed Wael Farouk** · 2026
 
 </div>
